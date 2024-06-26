@@ -5,8 +5,8 @@ import {
   MdKeyboardDoubleArrowUp,
 } from "react-icons/md";
 import { LuClipboardEdit } from "react-icons/lu";
-import  FaNewspaper from "react-icons/fa";
-import FaArrowsToDot from "react-icons/fa"
+import  {FaNewspaper} from "react-icons/fa";
+import {FaArrowsToDot} from "react-icons/fa6"
 import moment from "moment";
 import clsx from "clsx";
 import { Chart } from "../components/Chart";
